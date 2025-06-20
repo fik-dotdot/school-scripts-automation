@@ -1,1 +1,1 @@
-***** /full/path/to/Linux.sh
+* * * * * /full/path/to/Linux.sh
